@@ -1,0 +1,21 @@
+/* Hintergrund für alle Seiten */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(148, 179, 189); /* Hintergrundfarbe */
+    color: #333; /* Textfarbe */
+}
+
+h1, h2 {
+    color: #333; /* Überschriftfarbe */
+}
+
+p {
+    line-height: 1.6; /* Zeilenabstand */
+}
+
+nav a {
+    margin-right: 15px; /* Abstand zwischen Links */
+    text-decoration: none; /* Keine Unterstreichung */
+    color: #0066cc; /* Linkfarbe */
+}
